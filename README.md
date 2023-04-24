@@ -1,0 +1,3 @@
+Since the previous attempt at making a HamburgerMenu using animations became messy...
+This time I tried with transform.
+It looks much cleaner
